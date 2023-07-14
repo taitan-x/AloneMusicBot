@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Alone Support
+    url: https://t.me/AloneXBots
+    about: Direct chat on non-inquiries subjects.
+  - name: Documentation
+    url: https://Alone.tech/
+    about: Documentation for getting started with bot.
